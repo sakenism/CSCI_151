@@ -29,7 +29,7 @@ int main ()
 	{
 		printf("*");
 	}
-	printf("*\\\\");
+	printf("***");
 //	for(int i = 1; i <= )                        
 
 
